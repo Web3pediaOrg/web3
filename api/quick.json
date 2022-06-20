@@ -1,6 +1,6 @@
 {
-    "news":{},
-    "events":{},
-    "latest":{},
-    "updates":{}
+    "news":[],
+    "events":[],
+    "latest":[],
+    "updates":[]
 }
