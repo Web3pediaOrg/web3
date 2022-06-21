@@ -1,6 +1,25 @@
 {
-    "news":[],
-    "events":[],
-    "latest":[],
+    "news":[
+        {
+            "title":"‘We are building capabilities in metaverse and web3’",
+            "link":"https://www.livemint.com/companies/people/we-are-building-capabilities-in-metaverse-and-web3-11655747053763.html"
+        },
+        {
+            "title":"The Metaverse And Web3 Creating Value In The Future Digital Economy",
+            "link":"https://www.forbes.com/sites/markminevich/2022/06/17/the-metaverse-and-web3-creating-value-in-the-future-digital-economy/?sh=56996477785f"
+        },
+        {
+            "title":"From Web3 to Web5: How the evolution of internet is focused on data privacy",
+            "link":"https://indianexpress.com/article/technology/crypto/from-web3-to-web5-how-evolution-of-internet-is-focused-on-data-privacy-7966946/"
+        }
+    ],
+    "events":[
+        {"title":"Web3pedia","time":"22-03-2023, 12:00PM IST","url":"https://twitter.com/Web3pedia_"}
+    ],
+    "latest":[
+        {"url":"/explore/articles/defi-theory","topic":"DeFi Theory"},
+        {"url":"/explore/articles/proof-of-work","topic":"Proof Of Work"},
+        {"url":"/explore/articles/proof-of-stake","topic":"Proof Of Stake"}
+    ],
     "updates":[]
 }
