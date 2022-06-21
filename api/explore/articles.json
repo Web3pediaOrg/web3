@@ -1,15 +1,15 @@
 {
     "latest":[
-        {"url":"defi-theory","topic":"DeFi Theory"},
-        {"url":"proof-of-work","topic":"Proof Of Work"}
+        {"url":"/explore/articles/defi-theory","topic":"DeFi Theory"},
+        {"url":"/explore/articles/proof-of-work","topic":"Proof Of Work"}
     ],
     
     "articles":[
-        {"url":"what-is-web3","topic":"what is Web3 ?"},
-        {"url":"dao","topic":"DAO (Decentralized Autonomous Organization"},
-        {"url":"nft","topic":"NFT (Non-Fungible Token)"},
-        {"url":"defi-theory","topic":"DeFi Theory"},
-        {"url":"proof-of-work","topic":"Proof Of Work"},
-        {"url":"proof-of-stake","topic":"Proof Of Stake"}
+        {"url":"/explore/articles/web3","topic":"what is Web3 ?"},
+        {"url":"/explore/articles/dao","topic":"DAO (Decentralized Autonomous Organization"},
+        {"url":"/explore/articles/nft","topic":"NFT (Non-Fungible Token)"},
+        {"url":"/explore/articles/defi-theory","topic":"DeFi Theory"},
+        {"url":"/explore/articles/proof-of-work","topic":"Proof Of Work"},
+        {"url":"/explore/articles/proof-of-stake","topic":"Proof Of Stake"}
     ]
 }
