@@ -6,7 +6,7 @@
     
     "articles":[
         {"url":"/explore/articles/web3","topic":"what is Web3 ?"},
-        {"url":"/explore/articles/dao","topic":"DAO (Decentralized Autonomous Organization"},
+        {"url":"/explore/articles/dao","topic":"DAO (Decentralized Autonomous Organization)"},
         {"url":"/explore/articles/nft","topic":"NFT (Non-Fungible Token)"},
         {"url":"/explore/articles/defi-theory","topic":"DeFi Theory"},
         {"url":"/explore/articles/proof-of-work","topic":"Proof Of Work"},
