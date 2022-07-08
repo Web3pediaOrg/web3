@@ -17,9 +17,9 @@
         {"title":"Web3pedia","time":"22-03-2023, 12:00PM IST","url":"https://twitter.com/Web3pedia_"}
     ],
     "latest":[
-        {"url":"/explore/articles/defi-theory","topic":"DeFi Theory"},
-        {"url":"/explore/articles/proof-of-work","topic":"Proof Of Work"},
-        {"url":"/explore/articles/proof-of-stake","topic":"Proof Of Stake"}
+        {"url":"/explore/article/defi-theory","topic":"DeFi Theory"},
+        {"url":"/explore/article/proof-of-work","topic":"Proof Of Work"},
+        {"url":"/explore/article/proof-of-stake","topic":"Proof Of Stake"}
     ],
     "updates":[]
 }
