@@ -1,15 +1,15 @@
 {
     "latest":[
-        {"url":"/explore/articles/defi-theory","topic":"DeFi Theory"},
-        {"url":"/explore/articles/proof-of-work","topic":"Proof Of Work"}
+        {"url":"/explore/article/defi-theory","topic":"DeFi Theory"},
+        {"url":"/explore/article/proof-of-work","topic":"Proof Of Work"}
     ],
     
     "articles":[
-        {"url":"/explore/articles/web3","topic":"what is Web3 ?"},
-        {"url":"/explore/articles/dao","topic":"DAO (Decentralized Autonomous Organization)"},
-        {"url":"/explore/articles/nft","topic":"NFT (Non-Fungible Token)"},
-        {"url":"/explore/articles/defi-theory","topic":"DeFi Theory"},
-        {"url":"/explore/articles/proof-of-work","topic":"Proof Of Work"},
-        {"url":"/explore/articles/proof-of-stake","topic":"Proof Of Stake"}
+        {"url":"/explore/article/web3","topic":"what is Web3 ?"},
+        {"url":"/explore/article/dao","topic":"DAO (Decentralized Autonomous Organization)"},
+        {"url":"/explore/article/nft","topic":"NFT (Non-Fungible Token)"},
+        {"url":"/explore/article/defi-theory","topic":"DeFi Theory"},
+        {"url":"/explore/article/proof-of-work","topic":"Proof Of Work"},
+        {"url":"/explore/article/proof-of-stake","topic":"Proof Of Stake"}
     ]
 }
