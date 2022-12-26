@@ -7,6 +7,7 @@
     "articles":[
         {"url":"/explore/article/dao","topic":"DAO (Decentralized Autonomous Organization)","id":"dao"},
         {"url":"/explore/article/nft","topic":"NFT (Non-Fungible Token)","id":"nft"},
+        {"url":"/explore/article/minning","topic":"Minning","id":"minning"},
         {"url":"/explore/article/defi-theory","topic":"DeFi Theory","id":"defi-theory"},
         {"url":"/explore/article/proof-of-work","topic":"Proof Of Work","id":"proof-of-work"},
         {"url":"/explore/article/proof-of-stake","topic":"Proof Of Stake","id":"proof-of-stake"}
