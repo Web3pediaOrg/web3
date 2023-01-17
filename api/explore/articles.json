@@ -1,15 +1,19 @@
 {
     "latest":[
-        {"url":"/explore/article/defi-theory","topic":"DeFi Theory","id":"defi-theory"},
-        {"url":"/explore/article/proof-of-work","topic":"Proof Of Work","id":"proof-of-work"}
+        {"url":"/explore/article/smart-contracts","topic":"Smart Contract","id":"smart-contracts"},
+        {"url":"/explore/article/dApps","topic":"Decentralized Applications (dApps)","id":"dApps"},
+        {"url":"/explore/article/crypto-wallets","topic":"Crypto Wallets","id":"crypto-wallets"}
     ],
     
     "articles":[
         {"url":"/explore/article/dao","topic":"DAO (Decentralized Autonomous Organization)","id":"dao"},
         {"url":"/explore/article/nft","topic":"NFT (Non-Fungible Token)","id":"nft"},
-        {"url":"/explore/article/minning","topic":"Minning","id":"minning"},
+        {"url":"/explore/article/mining","topic":"Mining","id":"mining"},
         {"url":"/explore/article/defi-theory","topic":"DeFi Theory","id":"defi-theory"},
-        {"url":"/explore/article/proof-of-work","topic":"Proof Of Work","id":"proof-of-work"},
-        {"url":"/explore/article/proof-of-stake","topic":"Proof Of Stake","id":"proof-of-stake"}
+        {"url":"/explore/article/proof-of-work","topic":"Proof Of Work (PoW)","id":"proof-of-work"},
+        {"url":"/explore/article/proof-of-stake","topic":"Proof Of Stake (PoS)","id":"proof-of-stake"},
+        {"url":"/explore/article/smart-contracts","topic":"Smart Contracts","id":"smart-contracts"},
+        {"url":"/explore/article/dApps","topic":"Decentralized Applications (dApps)","id":"dApps"},
+        {"url":"/explore/article/crypto-wallets","topic":"Crypto Wallets","id":"crypto-wallets"}
     ]
 }

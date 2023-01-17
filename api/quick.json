@@ -17,10 +17,8 @@
         {"title":"Web3pedia","time":"22-03-2023, 12:00PM IST","url":"https://twitter.com/Web3pedia_"}
     ],
     "latest":[
-        {"url":"/explore/article/defi-theory","topic":"DeFi Theory","id":"defi-theory"},
-        {"url":"/explore/article/minning","topic":"Minning","id":"minning"},
-        {"url":"/explore/article/proof-of-work","topic":"Proof Of Work","id":"proof-of-work"},
-        {"url":"/explore/article/proof-of-stake","topic":"Proof Of Stake","id":"proof-of-stake"}
+        {"url":"/explore/article/smart-contracts","topic":"Smart Contract","id":"smart-contracts"},
+        {"url":"/explore/article/dApps","topic":"Decentralized Applications (dApps)","id":"dApps"}
     ],
     "updates":[]
 }
