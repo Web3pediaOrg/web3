@@ -1,0 +1,6 @@
+{
+    "categories":[
+        {"url":"/build/wallets","title":"Wallets","modules":"1","id":"wallets"},
+        {"url":"/build/NFTs","title":"NFTs","modules":"1","id":"NFTs"}
+    ]
+}
